@@ -1,20 +1,19 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Juegos de Mesa Actuales
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
-
+  meta: Pagina web sobre los juegos de mesa actuales.
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/stijnvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: Pagina web sobre los juegos de mesa actuales.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Chema y Hugo # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: juegosdemesa@gmail.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
@@ -39,7 +38,7 @@ display-social-icons: false
 # If you want social links to open in a new tab, set this as true
 social-icons-open-newtab: true
 
-footer-text: This is the footer.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://stijnvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: Este es el pie de página que redirecciona a la plantilla del tema llamado Holo Alfa.<br><a href="http://stijnvc.github.io/holo-alfa/">Holo Alfa</a>
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
