@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Sobre Nosotros
 ---
 
 ¡Hola y bienvenidos a Juegos de Mesa!
