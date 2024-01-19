@@ -1,5 +1,6 @@
 ---
 title: Ciudadelas - Construye Tu Imperio en el Renacimiento
+cover-image: Ciudadelas.jpg
 ---
 
 ## Introducción ##

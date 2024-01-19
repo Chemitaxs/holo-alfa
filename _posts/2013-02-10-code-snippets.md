@@ -1,5 +1,6 @@
 ---
 title: Exploding Kittens - ¡Un Juego Explosivamente Divertido con Gatos!
+cover-image: Kittens.jpg
 ---
 
 ## Introducción ##
