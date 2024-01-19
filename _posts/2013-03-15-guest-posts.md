@@ -1,7 +1,7 @@
 ---
 title: Ciudadelas - Construye Tu Imperio en el Renacimiento
 cover-image: Ciudadelas.jpg
-summary:¡Bienvenido a Ciudadelas, donde la astucia y la estrategia se combinan para construir el imperio más grandioso del Renacimiento! En este juego de cartas, elige roles sabiamente y construye distritos para ganar la corona.
+summary: ¡Bienvenido a Ciudadelas, donde la astucia y la estrategia se combinan para construir el imperio más grandioso del Renacimiento! En este juego de cartas, elige roles sabiamente y construye distritos para ganar la corona.
 
 ---
 
