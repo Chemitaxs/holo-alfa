@@ -1,6 +1,8 @@
 ---
 title: Bang! - Un Duelo en el Salvaje Oeste
 cover-image: Bang.jpg
+
+summary: ¡Bienvenido al emocionante mundo del Salvaje Oeste con "Bang!"! Este juego de cartas estratégico te sumerge en duelos, engaños y acción trepidante. Encuentra tu papel secreto y prepárate para enfrentamientos épicos en cada partida.
 ---
 
 ## Introducción ##
