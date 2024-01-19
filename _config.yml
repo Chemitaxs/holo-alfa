@@ -5,9 +5,14 @@ name: Juegos de Mesa Actuales
 description:
 
   # Description of your site. This will show up in google.
-  meta: Pagina web sobre los juegos de mesa actuales.
+  meta: Pagina web sobre los juegos de mesa actuales. 
   # Description of your site. This will show up on the front page.
-  subtitle: Pagina web sobre los juegos de mesa actuales.
+  subtitle: Explora el emocionante mundo de los juegos de mesa actuales
+   en nuestra página. Descubre títulos innovadores, desde estrategias
+   épicas hasta juegos de cartas intrigantes, seleccionados para ofrecer una experiencia única. 
+  Sumérgete en universos temáticos variados y vive aventuras emocionantes con amigos y familiares. 
+  Ofrecemos reseñas detalladas, tutoriales y recomendaciones para ayudarte a encontrar el juego perfecto. 
+  Únete a nuestra comunidad, comparte experiencias y disfruta de momentos inolvidables con los juegos de mesa más emocionantes y modernos. ¡Bienvenido a la diversión sin límites!
 
 author:
   name: Chema y Hugo # Change this!
@@ -19,7 +24,7 @@ author:
   # want it.
   info:
 
-url: http://steinvc.github.io
+url: http://Chemitaxs.github.io
 baseurl: "/holo-alfa"
 
 # language attribute in <html> element.
