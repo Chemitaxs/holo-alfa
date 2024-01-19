@@ -1,6 +1,6 @@
 ---
 title: Bang! - Un Duelo en el Salvaje Oeste
-cover-image: hipster.jpg
+cover-image: Bang.jpg
 ---
 
 ## Introducción ##
