@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About
+title: Sobre Nosotros
 ---
 
 ¡Hola y bienvenidos a Juegos de Mesa!
 
-Soy Jose María Hernández, el apasionado creador de este espacio dedicado a los juegos de mesa. Vivo por la emoción de cada lanzamiento de dados, las estrategias ingeniosas y las risas compartidas en torno a una mesa.
+Somos Jose María Hernández y Hugo Fernández Jiménez, los apasionados creadores de este espacio dedicado a los juegos de mesa. Vivimos por la emoción de cada lanzamiento de dados, las estrategias ingeniosas y las risas compartidas en torno a una mesa.
 
 ¿Qué Encontrarás Aquí?
 Este blog es tu guía amigable para explorar el emocionante universo de los juegos de mesa. Desde reseñas intrigantes hasta consejos tácticos, aquí encontrarás todo lo necesario para llevar tu experiencia de juego al siguiente nivel.

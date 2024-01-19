@@ -1,5 +1,8 @@
 ---
 title: Exploding Kittens - ¡Un Juego Explosivamente Divertido con Gatos!
+cover-image: Kittens.jpgç
+summary: ¡Prepárate para una experiencia de juego única y explosiva con Exploding Kittens! Desarrollado por creadores de The Oatmeal, este juego de cartas es una mezcla de estrategia, suerte y gatos que explotan. ¡Asegúrate de no ser atrapado por un gatito explosivo!
+
 ---
 
 ## Introducción ##
